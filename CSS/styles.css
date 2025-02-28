@@ -1,6 +1,6 @@
 /* Общие стили */
 body {
-    background-image: url('/Img/images.jpg');
+    background-image: url('https://danygonch.github.io/Uslugi-na-dom/Img/images.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -10,7 +10,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f4f4f9;
-    color: blue;
+    color: #333;
     line-height: 1.6;
 }
 
